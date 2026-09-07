@@ -70,6 +70,7 @@ coverage.xml
 cover/
 data/
 docs
+/images
 
 # Translations
 *.mo
