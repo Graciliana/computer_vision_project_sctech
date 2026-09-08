@@ -25,7 +25,7 @@ def save_image(output_path, image):
     cv2.imwrite(output_path, image)
 '''
 
-with open("projeto-visao-computacional/src/utils.py", "w", encoding="utf-8") as f:
+with open("computer_vision_project_sctech/src/utils.py", "w", encoding="utf-8") as f:
     f.write(utils_code)
 
 # Writing src/pipeline.py - OpenCV Processing Pipeline
