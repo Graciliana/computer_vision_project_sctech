@@ -116,7 +116,7 @@ pip install -r requirements.txt
 
 ```
 
-!git clone -b development [https://github.com/SEU_USUARIO/projeto-visao-computacional.git](https://github.com/SEU_USUARIO/projeto-visao-computacional.git)
+!git clone -b development [[https://github.com/SEU_USUARIO/projeto-visao-computacional.git](https://github.com/Graciliana/computer_vision_project_sctech.git)]([https://github.com/SEU_USUARIO/projeto-visao-computacional.git](https://github.com/Graciliana/computer_vision_project_sctech.git))
 
 ```
 
