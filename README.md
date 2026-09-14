@@ -84,7 +84,8 @@ A função principal preprocess_image() executa as seguintes etapas sequenciais:
 1. Clone o repositório:
 
 ```
-git clone [https://github.com/SEU_USUARIO/projeto-visao-computacional.git](https://github.com/SEU_USUARIO/projeto-visao-computacional.git)
+https://github.com/Graciliana/computer_vision_project_sctech.git
+
 cd projeto-visao-computacional
 
 ```
